@@ -5,9 +5,7 @@
       <excludeFolder url="file://$MODULE_DIR$/venv" />
       <excludeFolder url="file://$MODULE_DIR$/venv2" />
     </content>
-    <content url="file:///usr/local/spark-2.3.2/python" />
-    <content url="jar:///usr/local/spark-2.3.2/python/lib/py4j-0.10.7-src.zip!/" />
-    <orderEntry type="jdk" jdkName="Python 2.7 (TwitterHashtagAnalysis)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.5 (NamoRagaTwitterAnalysis_ClientApp)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TestRunnerService">
