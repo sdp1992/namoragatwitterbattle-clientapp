@@ -119,6 +119,6 @@ def json():
     return render_template('page1.html')
 
 
-# if __name__ == "__main__":
-#     app.run(host='0.0.0.0', port=5001)
+if __name__ == "__main__":
+    app.run(host='0.0.0.0', port=5001)
 

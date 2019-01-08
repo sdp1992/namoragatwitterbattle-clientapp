@@ -10,6 +10,8 @@
     //Chart.defaults.global.animation = 'linear';
 
     var chartOptions = {
+        maintainAspectRatio: false,
+        responsive: true,
         legend: {
             display: true,
             position: 'left',
@@ -54,25 +56,25 @@
             {
                     label: "Narendra Modi",
                     data: [],
-                    lineTension: 0.3,
+                    lineTension: 1,
                     fill: false,
                     borderColor: 'rgb(224, 135, 80)',
                     backgroundColor: 'transparent',
                     pointBorderColor: 'rgb(224, 135, 80)',
                     pointBackgroundColor: 'black',
-                    pointHitRadius: 30,
+                    pointHitRadius: 5,
                     pointBorderWidth: 1
             },
             {
                     label: "Rahul Gandhi",
                     data: [],
-                    lineTension: 0.3,
+                    lineTension: 1,
                     fill: false,
                     borderColor: 'rgb(67, 153, 219)',
                     backgroundColor: 'transparent',
                     pointBorderColor: 'rgb(67, 153, 219)',
                     pointBackgroundColor: 'black',
-                    pointHitRadius: 30,
+                    pointHitRadius: 5,
                     pointBorderWidth: 0
             }
             ]

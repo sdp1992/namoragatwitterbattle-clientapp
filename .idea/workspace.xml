@@ -2,64 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f4ca5e4-82d7-46e4-8f07-b9c6f839c65e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appengine_config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/CustomScript.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/TwitterHashtagAnalysis.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TwitterHashtagAnalysis.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/runtime.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/bootstrap/css/bootstrap-grid.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/bootstrap/css/bootstrap-reboot.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/bootstrap/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/bootstrap/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/dropdown/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/dropdown/js/script.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/images/16339976-130x130.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/images/2000px-digitalocean-logo.svg-489x245.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/images/5847f2dccef1014c0b5e4871-489x285.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/images/apache-spark-logo.svg-2-490x255.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/images/hashes.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/images/heroku-logo-489x285.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/images/hqdefault-1-480x360.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/images/logo2-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/images/logo2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/images/mbr-1162x772.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/images/tall-black-on-transparent-489x285.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/images/tensorflow-logo.svg-489x285.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/mbr-flip-card/mbr-flip-card.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/mbr-popup-btns/mbr-popup-btns.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/mobirise/css/mbr-additional.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/popper/popper.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/smoothscroll/smooth-scroll.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/socicon/css/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/socicon/fonts/socicon.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/socicon/fonts/socicon.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/socicon/fonts/socicon.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/socicon/fonts/socicon.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/tether/tether.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/tether/tether.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/theme/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/theme/js/script.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/touchswipe/jquery.touch-swipe.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/web/assets/jquery/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/web/assets/mobirise-icons-bold/mobirise-icons-bold.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/web/assets/mobirise-icons/mobirise-icons.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/web/assets/mobirise-icons/mobirise-icons.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/web/assets/mobirise-icons/mobirise-icons.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/web/assets/mobirise-icons/mobirise-icons.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/web/assets/mobirise-icons/mobirise-icons.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/chart2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/CustomScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/CustomScript.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/project.mobirise" beforeDir="false" afterPath="$PROJECT_DIR$/templates/project.mobirise" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/lib64" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -72,8 +19,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2261">
-              <caret line="119" lean-forward="true" selection-start-line="119" selection-end-line="119" />
+            <state relative-caret-position="2204">
+              <caret line="116" column="22" lean-forward="true" selection-start-line="116" selection-start-column="22" selection-end-line="116" selection-end-column="22" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -82,48 +29,38 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/CustomScript.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="155" column="10" lean-forward="true" selection-start-line="155" selection-start-column="10" selection-end-line="155" selection-end-column="10" />
+            <state relative-caret-position="304">
+              <caret line="91" column="40" selection-start-line="91" selection-start-column="40" selection-end-line="91" selection-end-column="40" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#center#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#center#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#section#8;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/assets/theme/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-5871" />
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/static/CustomScript.js">
+        <entry file="file://$PROJECT_DIR$/static/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="68" column="36" selection-start-line="68" selection-start-column="36" selection-end-line="68" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/requirements.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/appengine_config.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="50" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app.yaml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            <state relative-caret-position="190">
+              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -177,6 +114,7 @@
         <option value="$PROJECT_DIR$/app.py" />
         <option value="$PROJECT_DIR$/templates/index.html" />
         <option value="$PROJECT_DIR$/static/CustomScript.js" />
+        <option value="$PROJECT_DIR$/static/styles.css" />
       </list>
     </option>
   </component>
@@ -192,6 +130,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -199,11 +138,36 @@
               <item name="NamoRagaTwitterAnalysis_ClientApp" type="b2602c69:ProjectViewProjectNode" />
               <item name="NamoRagaTwitterAnalysis_ClientApp" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="NamoRagaTwitterAnalysis_ClientApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NamoRagaTwitterAnalysis_ClientApp" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NamoRagaTwitterAnalysis_ClientApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NamoRagaTwitterAnalysis_ClientApp" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NamoRagaTwitterAnalysis_ClientApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NamoRagaTwitterAnalysis_ClientApp" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="theme" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NamoRagaTwitterAnalysis_ClientApp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NamoRagaTwitterAnalysis_ClientApp" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="theme" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -341,6 +305,21 @@
       <option name="presentableId" value="Default" />
       <updated>1543158688722</updated>
     </task>
+    <task id="LOCAL-00001" summary="NA">
+      <created>1546720490419</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1546720490420</updated>
+    </task>
+    <task id="LOCAL-00002" summary="NA">
+      <created>1546720559573</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1546720559573</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView">
@@ -353,7 +332,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
+    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.194869" />
@@ -361,13 +340,13 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32810867" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32810867" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3291536" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3260188" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.335845" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3291536" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -377,6 +356,10 @@
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="NA" />
+    <option name="LAST_COMMIT_MESSAGE" value="NA" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/python/streaming_apps/__init__.py" />
@@ -441,27 +424,10 @@
         <state relative-caret-position="-171" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/page1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="45" column="48" lean-forward="true" selection-start-line="45" selection-start-column="48" selection-end-line="45" selection-end-column="48" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#p#1;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#4908#4914#0" expanded="true" />
-            <element signature="e#4915#4921#0" expanded="true" />
-            <element signature="e#4922#4928#0" expanded="true" />
-            <element signature="e#4929#4935#0" expanded="true" />
-            <element signature="e#4936#4942#0" expanded="true" />
-            <element signature="e#4943#4949#0" expanded="true" />
-            <element signature="e#4950#4956#0" expanded="true" />
-            <element signature="e#4957#4963#0" expanded="true" />
-            <element signature="e#4964#4970#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/runtime.txt" />
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/appengine_config.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
@@ -476,36 +442,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/index.html">
+    <entry file="file://$PROJECT_DIR$/templates/page1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="155" column="10" lean-forward="true" selection-start-line="155" selection-start-column="10" selection-end-line="155" selection-end-column="10" />
+        <state relative-caret-position="213">
+          <caret line="25" column="6" lean-forward="true" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#center#0;n#section#4;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#center#0;n#section#6;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#section#8;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#p#1;n#div#1;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/static/assets/theme/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5871" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2261">
-          <caret line="119" lean-forward="true" selection-start-line="119" selection-end-line="119" />
+        <state relative-caret-position="2204">
+          <caret line="116" column="22" lean-forward="true" selection-start-line="116" selection-start-column="22" selection-end-line="116" selection-end-column="22" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="91" column="40" selection-start-line="91" selection-start-column="40" selection-end-line="91" selection-end-column="40" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/static/CustomScript.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="68" column="36" selection-start-line="68" selection-start-column="36" selection-end-line="68" selection-end-column="36" />
+        <state relative-caret-position="228">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
         </state>
       </provider>
     </entry>

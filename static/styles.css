@@ -1,0 +1,21 @@
+.grid-container {
+  display: grid;
+  grid-template-areas:
+    'header header header header header header'
+    'menu main main main right right'
+    'menu footer footer footer footer footer';
+  grid-gap: 10px;
+  padding: 10px;
+}
+
+.grid-container > div {
+  padding: 20px 10px;
+}
+
+.chart {
+  position: relative;
+  margin: auto;
+  height: 450px;
+  width: calc(100vw - 50px);
+  grid-area: main;
+}
