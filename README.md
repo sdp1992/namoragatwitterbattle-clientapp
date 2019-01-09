@@ -12,5 +12,5 @@ Filtered data from Twitter API -> Push tweets to Kafka topic -> Get sentiment of
 
 1. https://github.com/sdp1992/TwitterToKafka
 2. https://github.com/sdp1992/KafkaToSparkStreaming
-https://github.com/sdp1992/SentimentClassifier_TF
+3. https://github.com/sdp1992/SentimentClassifier_TF
 
