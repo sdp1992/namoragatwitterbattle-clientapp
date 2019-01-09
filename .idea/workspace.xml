@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4f4ca5e4-82d7-46e4-8f07-b9c6f839c65e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/static/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/CustomScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/CustomScript.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +17,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2204">
-              <caret line="116" column="22" lean-forward="true" selection-start-line="116" selection-start-column="22" selection-end-line="116" selection-end-column="22" />
+            <state relative-caret-position="1957">
+              <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
               <folding>
                 <element signature="e#0#39#0" expanded="true" />
               </folding>
@@ -29,38 +27,33 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/CustomScript.js">
+        <entry file="file://$PROJECT_DIR$/app.yaml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
-              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+              <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/index.html">
+        <entry file="file://$PROJECT_DIR$/appengine_config.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="91" column="40" selection-start-line="91" selection-start-column="40" selection-end-line="91" selection-end-column="40" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="57">
+              <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/static/assets/theme/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-5871" />
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/static/styles.css">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+            <state relative-caret-position="76">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -103,7 +96,6 @@
         <option value="$PROJECT_DIR$/dashboard/templates/index.html" />
         <option value="$PROJECT_DIR$/dashboard/app.py" />
         <option value="$PROJECT_DIR$/runtime.txt" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/Procfile" />
         <option value="$PROJECT_DIR$/templates/index_new.html" />
         <option value="$PROJECT_DIR$/static/page1.html" />
@@ -111,10 +103,11 @@
         <option value="$PROJECT_DIR$/appengine_config.py" />
         <option value="$PROJECT_DIR$/requirements.txt" />
         <option value="$PROJECT_DIR$/app.yaml" />
-        <option value="$PROJECT_DIR$/app.py" />
         <option value="$PROJECT_DIR$/templates/index.html" />
         <option value="$PROJECT_DIR$/static/CustomScript.js" />
         <option value="$PROJECT_DIR$/static/styles.css" />
+        <option value="$PROJECT_DIR$/app.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -137,32 +130,6 @@
             <path>
               <item name="NamoRagaTwitterAnalysis_ClientApp" type="b2602c69:ProjectViewProjectNode" />
               <item name="NamoRagaTwitterAnalysis_ClientApp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NamoRagaTwitterAnalysis_ClientApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NamoRagaTwitterAnalysis_ClientApp" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NamoRagaTwitterAnalysis_ClientApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NamoRagaTwitterAnalysis_ClientApp" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NamoRagaTwitterAnalysis_ClientApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NamoRagaTwitterAnalysis_ClientApp" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="theme" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NamoRagaTwitterAnalysis_ClientApp" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NamoRagaTwitterAnalysis_ClientApp" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="theme" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -319,7 +286,14 @@
       <option name="project" value="LOCAL" />
       <updated>1546720559573</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="NA">
+      <created>1546975947942</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1546975947942</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView">
@@ -332,8 +306,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="-4" width="1855" height="1084" extended-state="6" />
-    <editor active="true" />
+    <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.194869" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -346,7 +319,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3291536" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.335845" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3354232" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3291536" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -356,6 +329,7 @@
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="NA" />
@@ -410,13 +384,6 @@
     <entry file="file://$PROJECT_DIR$/static/assets/web/assets/jquery/jquery.min.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Procfile" />
     <entry file="file://$PROJECT_DIR$/templates/index_new.html" />
     <entry file="file://$PROJECT_DIR$/static/Chart.js">
@@ -425,23 +392,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/runtime.txt" />
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/appengine_config.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="50" selection-start-line="2" selection-start-column="50" selection-end-line="2" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app.yaml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/page1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="213">
@@ -454,17 +404,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/static/assets/theme/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5871" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.py">
+    <entry file="file://$PROJECT_DIR$/static/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2204">
-          <caret line="116" column="22" lean-forward="true" selection-start-line="116" selection-start-column="22" selection-end-line="116" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="190">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -485,12 +430,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/styles.css">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        <state relative-caret-position="76">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1957">
+          <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appengine_config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

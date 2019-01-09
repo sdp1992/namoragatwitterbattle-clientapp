@@ -1,2 +1,4 @@
 # Don't track content of these folders
 venv/
+venv2/
+lib/

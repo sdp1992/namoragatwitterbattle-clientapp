@@ -1,3 +1,4 @@
+# Importing dependencies
 from flask import Flask,jsonify,request
 from flask import render_template
 import ast
@@ -5,6 +6,7 @@ import ast
 app = Flask(__name__)
 
 
+# Initializing values for chart
 def initialize_value(return_params):
         count_values = []
         for i in range(360):
@@ -50,15 +52,6 @@ def chart():
 def refresh_graph_data():
     global labels1, labels2, namo_count, raga_count, namo_positive, namo_negative, raga_positive, raga_negative
 
-    # print("labels1 now: " + str(labels1))
-    # print("labels2 now: " + str(labels2))
-    # print("Namo count now: " + str(namo_count))
-    # print("Raga count now: " + str(raga_count))
-    # print("Namo positive count now: " + str(namo_positive))
-    # print("Namo negative count now: " + str(namo_negative))
-    # print("Raga positive count now: " + str(raga_positive))
-    # print("Raga negative count now: " + str(raga_negative))
-
     return jsonify(sLabel1=labels1, sLabel2=labels2, sNamoData=namo_count, sRagaData=raga_count,
                    sNamoPositive=namo_positive, sNamoNegative=namo_negative,
                    sRagaPositive=raga_positive, sRagaNegative=raga_negative)
@@ -70,19 +63,13 @@ def update_data_post():
     if not request.form or 'namo_count' not in request.form:
         return "Error",400
 
-    #labels1 = ast.literal_eval(request.form['label'])
-
     namo_count.pop(0)
     namo_count.append(ast.literal_eval(request.form['namo_count'])[0])
 
     raga_count.pop(0)
     raga_count.append(ast.literal_eval(request.form['raga_count'])[0])
 
-    #print("labels received: " + str(labels1))
-    # print("Namo data received: " + str(namo_count))
-    # print("Namo data received: " + str(raga_count))
-
-    return "success",201
+    return "success", 201
 
 
 @app.route('/updateSentimentData', methods=['POST'])
@@ -90,8 +77,6 @@ def update_data_post_sentiment():
     global labels2, namo_positive, namo_negative, raga_positive, raga_negative
     if not request.form or 'namo_positive' not in request.form:
         return "Error",400
-
-    #labels2 = ast.literal_eval(request.form['label'])
 
     namo_positive.pop(0)
     namo_positive.append(ast.literal_eval(request.form['namo_positive'])[0])
@@ -105,13 +90,7 @@ def update_data_post_sentiment():
     raga_negative.pop(0)
     raga_negative.append(ast.literal_eval(request.form['raga_negative'])[0])
 
-    # print("labels received: " + str(labels2))
-    # print("Namo positive count received: " + str(namo_positive))
-    # print("Namo negative count received: " + str(namo_negative))
-    # print("Raga positive count received: " + str(raga_positive))
-    # print("Raga negative count received: " + str(raga_negative))
-
-    return "success",201
+    return "success", 201
 
 
 @app.route('/aboutme')
@@ -119,6 +98,7 @@ def json():
     return render_template('page1.html')
 
 
-if __name__ == "__main__":
-    app.run(host='0.0.0.0', port=5001)
+# For running app locally
+# if __name__ == "__main__":
+#     app.run(host='0.0.0.0', port=5001)
 
