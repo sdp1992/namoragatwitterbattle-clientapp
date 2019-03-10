@@ -14,7 +14,7 @@ def initialize_value(return_params):
         labels_values = []
         j = 6
         for i in range(360):
-            if i in [0,60,120,180,240,300]:
+            if i in [0, 60, 120, 180, 240, 300]:
                 labels_values.append("-" + str(10*j) + " Min")
                 j = j-1
             else:
@@ -61,7 +61,7 @@ def refresh_graph_data():
 def update_data_post():
     global labels1, namo_count, raga_count
     if not request.form or 'namo_count' not in request.form:
-        return "Error",400
+        return "Error", 400
 
     namo_count.pop(0)
     namo_count.append(ast.literal_eval(request.form['namo_count'])[0])
@@ -76,7 +76,7 @@ def update_data_post():
 def update_data_post_sentiment():
     global labels2, namo_positive, namo_negative, raga_positive, raga_negative
     if not request.form or 'namo_positive' not in request.form:
-        return "Error",400
+        return "Error", 400
 
     namo_positive.pop(0)
     namo_positive.append(ast.literal_eval(request.form['namo_positive'])[0])
